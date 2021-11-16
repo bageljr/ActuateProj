@@ -1,0 +1,16 @@
+{
+  "name": "actuate",
+  "version": "1.0.0",
+  "description": "Actuate",
+  "main": "dbsetup.js",
+  "scripts": {
+    "setup": "node dbsetup.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
