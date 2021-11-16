@@ -1,9 +1,10 @@
 # URL Shortener
 
 Instructions to Setup:
-1. In console, run "npm install" to install dependencies
-2. Run "npm run setup" to run setup script
-3. Run "npm start" to start HTTP server
+1. In console, run "npm init" to create package
+2. Run "npm install" to install dependencies
+3. Run "npm run setup" to run setup script
+4. Run "npm start" to start HTTP server
 
 API Specs:
 /getshort/{LongURL}
